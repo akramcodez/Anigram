@@ -1,16 +1,18 @@
 # 🐾 Anigram  
 
 A **dynamic animal social media platform** where users can browse, search, and interact with animal profiles.  
-**Inspired by Instagram!**
+**Inspired by Instagram!**  
+
+🔗 **Live Demo:** [Anigram](https://anigram-wuz7.onrender.com/)  
 
 ---
 
 ## 🎉 Welcome to Anigram  
 
 A fun social media platform for pets! This web application lets users explore animal profiles, such as:  
-**CAT | DOG | GOAT | COW | HEN | DUCK | HORSE**
+**CAT | DOG | GOAT | COW | HEN | DUCK | HORSE**  
 
-Each profile showcases unique bios, posts, and user interactions.
+Each profile showcases unique bios, posts, and user interactions.  
 
 ---
 
@@ -106,7 +108,7 @@ We appreciate the efforts and dedication of all contributors:
 
 This project is licensed under the **MIT License**.  
 
-Permission is granted to use, copy, modify, and distribute this software for any purpose with or without fee, provided that the original copyright notice is included. [LICENSE](/LICENSE) 
+Permission is granted to use, copy, modify, and distribute this software for any purpose with or without fee, provided that the original copyright notice is included. [LICENSE](/LICENSE)  
 
 **THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.**
 
