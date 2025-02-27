@@ -336,6 +336,10 @@ body {
     margin-top: 76rem;
   }
 
+  .content:last-child {
+    margin-bottom: 3rem;
+  }
+
   .main-area {
     width: 100%;       
     margin: 0;           
@@ -354,7 +358,7 @@ body {
 
   .content {
     width: 100%;         
-    margin-bottom: 1rem; 
+    margin-bottom: 1.5rem; 
   }
 
   .post {

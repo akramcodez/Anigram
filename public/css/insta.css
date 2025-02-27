@@ -303,8 +303,8 @@ a {
   }
 
   .post {
-    width: 10rem;
-    height: 12rem;
+    width: 11.2rem;
+    height: 13rem;
   }
   .post-details {
     font-size: 0.7rem !important;
@@ -325,5 +325,9 @@ a {
 
   .error-msg {
     font-size: 1.4rem; 
+  }
+
+  .down-bar:last-child {
+    margin-bottom: 2.2rem;
   }
 }
